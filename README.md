@@ -3,9 +3,9 @@
 I'm a Frontend Web Developer, I have +1 year experience in the Web Frontend Developer.
 My main programming lenguaje is: 
 
-☑️ HTML, and CSS with SASS preprocessor. 
+☑️ HTML, CSS with SASS preprocessor, and Javascript. 
 
-☑️ Javascript with the Progresive Framework Vue js 🤓. 
+☑️ Javascript with React js library  🤓. 
 
 ☑️ I love the Utility-First Framework CSS, Tailwind CSS 🤩.
 
